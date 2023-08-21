@@ -1,0 +1,12 @@
+list(),
+listFiles(),
+renameTo(),
+delete(),
+exists(),
+getPath(),
+isFile(),
+createNewFile(),
+mkdir(),
+toPath(),
+isAbsolute(),
+getAbsolute()
