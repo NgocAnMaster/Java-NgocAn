@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users
+        xmlns:fpt="xml.iml"
+        xmlns:g="http://facebook.com">
+    <fpt:student id="1">
+        <name>nguyen van a</name>
+        <age>18</age>
+    </fpt:student>
+    <g:student id="2">
+        <!--        <name>tran thi b</name>-->
+        <age>&#8596; 20</age>
+    </g:student>
+</users>

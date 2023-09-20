@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<schools xmlns="https://www.w3schools1.com"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://www.w3schools.com/xml schools.xsd">
+    <school>
+        <student>
+            <name>hung</name>
+            <age>25</age>
+        </student>
+        <student>
+            <name>mai</name>
+            <age>22</age>
+        </student>
+        <student>
+            <name>nguyen</name>
+            <age>20</age>
+        </student>
+        <student>
+            <name>khoi</name>
+            <age>23</age>
+        </student>
+    </school>
+    <school>
+        <student>
+            <name>ngo</name>
+            <age>17</age>
+        </student>
+        <student>
+            <name>huy</name>
+            <age>15</age>
+        </student>
+        <student>
+            <name>an</name>
+            <age>16</age>
+        </student>
+        <student>
+            <name>manh</name>
+            <age>19</age>
+        </student>
+    </school>
+</schools>

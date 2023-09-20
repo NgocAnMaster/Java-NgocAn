@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<!DOCTYPE book-->
+<!--        [-->
+<!--                <!ELEMENT book (note)>-->
+<!--                <!ELEMENT note (to, from, heading, body)>-->
+<!--                <!ELEMENT to (#PCDATA)>-->
+<!--                <!ELEMENT from (#PCDATA)>-->
+<!--                <!ELEMENT heading (#PCDATA)>-->
+<!--                <!ELEMENT body (#PCDATA)>-->
+<!--                <!ENTITY school "FPT Aptech">-->
+<!--                ]>-->
+<note
+        xmlns="https://www.w3schools.com"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="https://www.w3schools.com/xml note.xsd">
+    <to>Tove</to>
+    <from>Jani</from>
+    <heading>Reminder</heading>
+    <body>Don't forget me this weekend!</body>
+    <number>123</number>
+</note>

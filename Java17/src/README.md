@@ -4,17 +4,18 @@ grade: 1 -> 12
 addClass(): Add a new class into school's class list
 addStudents(): Add a new student into class's student list
 Student.averageScore(): Calculate weighted average score of student:
+
 - Physics: (Physics x 2 + Maths + Geography + History + Biology) / 6
 - Maths: (Maths x 2 + Physics + Geography + History + Biology) / 6
-  Class.averageScore(): Calculate weighted average score of all students
+  Class.averageScore(): Calculate weighted average score of all users
   in the class:
-
 
 Requirement:
 Initialize school "FPT Aptech" at "8 Ton That Thuyet"
 Initialize maths class "6A", grade 6 and add to school's class list
 
-Initialize students and add to class 6A:
+Initialize users and add to class 6A:
+
 - Nguyen Binh - Male, 1/2/2012
   Math: 9.3, Physics: 8.1, Geography: 7.4, History: 8.2, Biology: 6.5
 - Vu Chien - Male, 5/6/2012
